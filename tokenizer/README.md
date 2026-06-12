@@ -1,3 +1,3 @@
 # Tokenizer
 
-This module will contain tokenizer related work.
+This folder contains tokenization related implementations and notes.
