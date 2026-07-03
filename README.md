@@ -1,45 +1,72 @@
 # LLM From Scratch
 
-## Project Objective
-To understand and implement the complete pipeline of a Large Language Model (LLM) from scratch.
+A project to understand and implement the core components of a Large Language Model (LLM) from scratch by studying the Transformer architecture introduced in the paper **Attention Is All You Need (Vaswani et al., 2017)**.
 
-## Topics Covered
+---
 
-- NLP Evolution
-- Rule-Based Systems
-- Statistical NLP
-- Word Embeddings
-- RNNs
-- LSTMs / GRUs
-- Attention Mechanism
-- Transformers
-- Tokenization
-- Embeddings
-- Training
-- Inference
-- Text Generation
+## Objectives
 
-## Learning Roadmap
+- Understand the evolution of NLP
+- Implement Tokenization
+- Learn Embeddings
+- Implement Self-Attention
+- Build Transformer Blocks
+- Understand the Training Pipeline
+- Implement Text Generation
 
-### Phase 1 - Foundations
-- NLP Evolution
-- Attention Mechanism
-- Transformer Basics
+---
 
-### Phase 2 - Core Components
-- Tokenizer
-- Embeddings
-- Self Attention
+## Current Progress
 
-### Phase 3 - Transformer Architecture
-- Transformer Blocks
-- Multi Head Attention
-- Positional Encoding
+- [x] Repository Setup
+- [x] Project Documentation
+- [x] Tokenization
+- [x] Embeddings
+- [x] Attention Mathematics
+- [x] Self-Attention (NumPy)
+- [ ] Transformer Block
+- [ ] Training Pipeline
+- [ ] Inference
+- [ ] Mini GPT
 
-### Phase 4 - Training & Inference
-- Mini GPT Model
-- Training
-- Text Generation
+---
+
+## Project Structure
+
+```text
+llm-from-scratch/
+│
+├── attention/
+├── datasets/
+├── docs/
+├── embeddings/
+├── inference/
+├── notebooks/
+├── tokenizer/
+├── training/
+├── transformer/
+└── README.md
+```
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Google Colab
+- GitHub
+
+---
+
+## Learning Resources
+
+- Attention Is All You Need (2017)
+- Andrej Karpathy - Let's Build GPT
+- NumPy Documentation
+
+---
 
 ## Current Status
-Repository Setup and Planning Completed.
+
+The project is currently focused on implementing the core building blocks of a Transformer architecture. The next milestone is to build the Transformer Block and integrate the implemented components into a working pipeline.
