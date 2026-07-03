@@ -1,20 +1,61 @@
 # LLM From Scratch - Project Plan
 
-Week 1
-- NLP Evolution
-- Attention Mechanism
-- Transformer Basics
+## Goal
 
-Week 2
+Build and understand the core components of a Transformer-based Large Language Model from scratch using Python and NumPy.
+
+---
+
+## Milestone 1 ✅
+
+- Repository Setup
+- Documentation
+- GitHub Structure
+
+---
+
+## Milestone 2 ✅
+
 - Tokenization
+- Vocabulary
+- Token IDs
+
+---
+
+## Milestone 3 ✅
+
 - Embeddings
+- Embedding Matrix
+
+---
+
+## Milestone 4 ✅
+
+- Attention Mathematics
 - Self Attention
 
-Week 3
-- Transformer Blocks
-- Mini GPT
+---
 
-Week 4
-- Training
+## Milestone 5 🟡
+
+- Feed Forward Network
+- Transformer Block
+
+---
+
+## Milestone 6
+
+- Training Pipeline
+
+---
+
+## Milestone 7
+
+- Inference
 - Text Generation
-- Documentation
+
+---
+
+## Current Status
+
+Currently implementing the Transformer architecture by building individual components step by step.
